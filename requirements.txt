@@ -1,0 +1,10 @@
+beautifulsoup4==4.7.1
+PyPDF2==1.26.0
+pandas==0.25.0
+seaborn==0.9.0
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.1
+jupyter-http-over-ws==0.0.6
+
