@@ -5,6 +5,8 @@ Data are frequently scraped and pushed back to this repository together with gen
 
 
 ### From WHO (World Health Organisation) Situation reports
+[These reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) are in PDF formats. New reports are released daily.
+
 
 #### Globally confirmed cases
 
