@@ -12,11 +12,13 @@ Data are frequently scraped and pushed back to this repository together with gen
 
 ![](images/who-global-cases.png?raw=true)
 
+### More data to come...
 
-## How does this work
 
-* Jupypter notebooks are used for scraping data and output to CSV files
-* These notebooks are scheduled to be executed by Github Actions pipeline to scrape new data
+## How it works
+
+* Jupyter notebooks are used for scraping data and output to CSV files
+* These notebooks are executed on a schedule by Github Actions pipeline to scrape new data
 * This pipeline also commits back new data to this repository
 
 
@@ -26,11 +28,11 @@ Data are frequently scraped and pushed back to this repository together with gen
 * Tools: Python3, Jupyter, Pandas and related stuff. Here is one way to have them with this docker image
 
 ```
-docker run --user root -it -v $PWD:/temp1 jupyter/datascience-notebook bash
+docker run --user root -it -v $PWD:/stats jupyter/datascience-notebook bash
 ```
 
 
-* `requirements.txt` contains the dependencies
+* [requirements.txt](requirements.txt) contains Python dependencies
 
 ```
 pip install -r requirements.txt
