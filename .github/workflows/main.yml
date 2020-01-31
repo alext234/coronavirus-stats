@@ -25,10 +25,18 @@ jobs:
 
       - name: Execute notebooks
         run: |
-            jupyter nbconvert --execute --inplace WHO-situation-reports.ipynb
+            jupyter nbconvert --execute --inplace *.ipynb
 
-      - name: List outputs
+      - name: Commit files 
         run: |
-            ls data
-            ls images
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add data images *.ipynb
+            git commit -m "Update data, images and notebooks"
+
+      - name: Push to repo
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+
             
