@@ -7,7 +7,7 @@ The following charts data are periodically scraped and updated back to this repo
 
 [CSV](data/who-global-cases.csv?raw=true)
 
-![](images/who-global-cases.png?raw=true | width=400)
+![](images/who-global-cases.png?raw=true)
 
 
 
