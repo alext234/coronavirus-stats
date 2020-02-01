@@ -5,7 +5,7 @@ Data are frequently scraped and pushed back to this repository together with gen
 
 
 ### From WHO (World Health Organisation) Situation reports
-Data are scraped from [these reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) are in PDF formats. New reports are released daily.
+Data are scraped from [these reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) which are in PDF formats. New reports are released daily.
 
 
 #### Globally confirmed cases
@@ -16,7 +16,7 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 
 ### From US CDC (Centers for Disease Control and Prevention)
 
-#### Cases in the US (data are scraped from [here](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
+#### Cases in the US (data are scraped from [here](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html))
 
 [CSV direct link](data/cdc-us-cases.csv?raw=true)
 
