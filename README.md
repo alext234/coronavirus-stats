@@ -14,6 +14,15 @@ Data are frequently scraped and pushed back to this repository together with gen
 
 ![](images/who-global-cases.png?raw=true)
 
+### From US CDC (Centers for Disease Control and Prevention)
+
+#### [Cases in the US](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
+
+[CSV direct link](data/cdc-us-cases.csv?raw=true)
+
+![](images/cdc-us-cases.png?raw=true)
+
+
 ### More data to come...
 
 
