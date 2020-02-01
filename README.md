@@ -1,7 +1,10 @@
 
 ## Charts and Data on Coronavirus 
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
-Data are frequently scraped and pushed back to this repository together with generated charts (.PNG files).
+
+Data are scraped daily and pushed back to this repository together with generated charts (.PNG files).
+
+Data scraping are automated with [Github Actions](https://github.com/features/actions).
 
 
 ### From WHO (World Health Organisation) Situation reports
