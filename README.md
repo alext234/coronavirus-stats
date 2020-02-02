@@ -49,7 +49,7 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 ## Development 
 
 
-* Tools: Python3, Jupyter, Pandas and related stuff (e.g. Selenium for web-scraping). 
+* Tools: Python3, Jupyter, Pandas, BeautifulSoup and related stuff (e.g. Selenium for web-scraping). 
 It is recommended to start the development environment with this docker image, which is also used for the Github Actions build pipeline.
 
 ```
