@@ -12,7 +12,7 @@ jobs:
   execute_notebooks:
     runs-on: ubuntu-latest
     container: 
-        image: alext234/data-science-selenium/datascience:latest
+        image: docker.pkg.github.com/alext234/data-science-selenium/datascience:latest
 
     steps:
       - uses: actions/checkout@v1
