@@ -2,7 +2,7 @@
 ## Charts and Data on Coronavirus 
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
 
-Data are scraped daily and pushed back to this repository together with generated charts (.PNG files).
+Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
 
 Data scraping are automated with [Github Actions](https://github.com/features/actions).
 
@@ -16,6 +16,16 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 [CSV direct link](data/who-global-cases.csv?raw=true)
 
 ![](images/who-global-cases.png?raw=true)
+
+### Stats from China
+[This page](https://ncov.dxy.cn/ncovh5/view/pneumonia) has the realtime stats from China. Data are pulled several times a day by the pipeline.
+
+#### All cases in China
+
+[CSV direct link](data/china-summary-cases.csv?raw=true)
+
+![](images/china-summary-cases.png?raw=true)
+
 
 ### From US CDC (Centers for Disease Control and Prevention)
 
@@ -39,10 +49,11 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 ## Development 
 
 
-* Tools: Python3, Jupyter, Pandas and related stuff. Here is one way to have them with this docker image
+* Tools: Python3, Jupyter, Pandas and related stuff (e.g. Selenium for web-scraping). 
+It is recommended to start the development environment with docker image, which is also used for the Github Actions build pipeline.
 
 ```
-docker run --user root -it -v $PWD:/stats jupyter/datascience-notebook bash
+docker run  -p 8888:8888 -it -v $PWD:/stats -w /stats  docker.pkg.github.com/alext234/data-science-selenium/datascience:latest bash 
 ```
 
 
@@ -50,6 +61,13 @@ docker run --user root -it -v $PWD:/stats jupyter/datascience-notebook bash
 
 ```
 pip install -r requirements.txt
+```
+
+* Start Jupyter notebook from inside the container and then visit the browser at `http://localhost:8888`
+
+```
+jupyter notebook --allow-root --ip=0.0.0.0
+
 ```
 
 ## Contributions

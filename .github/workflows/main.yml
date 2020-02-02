@@ -5,15 +5,14 @@ on:
     branches:
       - master
 
-  schedule: # daily
-    - cron:  '00 23 * * *'
+  schedule: # every 6 hours
+    - cron:  '0 */6 * * *'
 
 jobs:
   execute_notebooks:
     runs-on: ubuntu-latest
     container: 
-        image: jupyter/datascience-notebook
-        options: --user root
+        image: alext234/data-science-selenium/datascience:latest
 
     steps:
       - uses: actions/checkout@v1
@@ -25,8 +24,8 @@ jobs:
 
       - name: Execute notebooks
         run: |
-            jupyter nbconvert --execute --inplace *.ipynb
-
+            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=180
+            
       - name: Commit files 
         run: |
             git config --local user.email "action@github.com"
