@@ -50,10 +50,10 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 
 
 * Tools: Python3, Jupyter, Pandas and related stuff (e.g. Selenium for web-scraping). 
-It is recommended to start the development environment with docker image, which is also used for the Github Actions build pipeline.
+It is recommended to start the development environment with this docker image, which is also used for the Github Actions build pipeline.
 
 ```
-docker run  -p 8888:8888 -it -v $PWD:/stats -w /stats  docker.pkg.github.com/alext234/data-science-selenium/datascience:latest bash 
+docker run  -p 8888:8888 -it -v $PWD:/stats -w /stats alext234/datascience:latest  bash 
 ```
 
 

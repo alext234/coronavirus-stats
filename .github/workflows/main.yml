@@ -5,14 +5,14 @@ on:
     branches:
       - master
 
-  schedule: # every 6 hours
-    - cron:  '0 */6 * * *'
+  schedule: # every 3 hours
+    - cron:  '0 */3 * * *'
 
 jobs:
   execute_notebooks:
     runs-on: ubuntu-latest
     container: 
-        image: docker.pkg.github.com/alext234/data-science-selenium/datascience:latest
+        image: alext234/datascience:latest
 
     steps:
       - uses: actions/checkout@v1
