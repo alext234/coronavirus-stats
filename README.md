@@ -27,6 +27,17 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 ![](images/china-summary-cases.png?raw=true)
 
 
+### Stats from Singapore
+
+Data are scraped from the MOH (Ministry of Health) local situation [web page](https://www.moh.gov.sg/2019-ncov-wuhan).
+
+#### Cases in Singapore
+
+[CSV direct link](data/singapore-cases.csv?raw=true)
+
+![](images/singapore-cases.png?raw=true)
+
+
 ### From US CDC (Centers for Disease Control and Prevention)
 
 #### Cases in the US (data are scraped from [here](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html))
