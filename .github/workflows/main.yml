@@ -5,8 +5,8 @@ on:
     branches:
       - master
 
-  schedule: # every 3 hours
-    - cron:  '0 */3 * * *'
+  schedule: # every hour
+    - cron:  '0 */1 * * *'
 
 jobs:
   execute_notebooks:
