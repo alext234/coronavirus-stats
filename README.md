@@ -29,7 +29,7 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 
 ### Stats from Australia
 
-Data is pullsed from Department of Health [website](https://www.health.gov.au/news/coronavirus-update-at-a-glance).
+Data is pulled from Department of Health [website](https://www.health.gov.au/news/coronavirus-update-at-a-glance).
 
 #### Cases in Australia
 
