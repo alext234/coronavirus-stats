@@ -27,6 +27,15 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 ![](images/china-summary-cases.png?raw=true)
 
 
+### Stats from Australia
+
+Data is pullsed from Department of Health [website](https://www.health.gov.au/news/coronavirus-update-at-a-glance).
+
+#### Cases in Australia
+
+[CSV direct link](data/australia-cases.csv?raw=true)
+
+
 ### Stats from Singapore
 
 Data are scraped from the MOH (Ministry of Health) local situation [web page](https://www.moh.gov.sg/2019-ncov-wuhan).
