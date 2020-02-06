@@ -65,7 +65,7 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 ## Aggregate sites
 
 
-### [BNO News] https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+### [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 
 Below are international stats, excluding China.
 
