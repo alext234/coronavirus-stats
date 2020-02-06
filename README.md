@@ -1,11 +1,15 @@
 
-## Charts and Data on Coronavirus 
+# Charts and Data on Coronavirus 
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
 
-Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
+* Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
 
-Data scraping are automated with [Github Actions](https://github.com/features/actions).
+* Data scraping are automated with [Github Actions](https://github.com/features/actions).
 
+* Look for those **CSV direct link** below to get the scraped historical data.
+
+
+## WHO & Government sites 
 
 ### From WHO (World Health Organisation) Situation reports
 Data are scraped from [these reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) which are in PDF formats. New reports are released daily.
@@ -58,17 +62,32 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 ![](images/cdc-us-cases.png?raw=true)
 
 
-### More data to come...
+## Aggregate sites
 
 
-## How it works
+### [BNO News] https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+
+Below are international stats, excluding China.
+
+[CSV direct link](data/bnonews-international.csv?raw=true)
+
+Bar chart of the latest snapshot.
+
+![](images/bnonews-international.png?raw=true)
+
+
+
+# More data to come...
+
+
+# How it works
 
 * Jupyter notebooks are used for scraping data and output to CSV files
 * These notebooks are executed on a schedule by Github Actions pipeline to scrape new data
 * This pipeline also commits back new data to this repository
 
 
-## Development 
+# Development 
 
 
 * Tools: Python3, Jupyter, Pandas, BeautifulSoup and related stuff (e.g. Selenium for web-scraping). 
