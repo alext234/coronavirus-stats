@@ -1,3 +1,4 @@
+![Last Crawl Status](https://github.com/alext234/coronavirus-stats/workflows/Run%20notebooks%20and%20commits%20back%20data/images/badge.svg?branch=master)
 
 # Charts and Data on Coronavirus 
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
