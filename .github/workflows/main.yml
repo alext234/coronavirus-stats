@@ -1,4 +1,4 @@
-name: Run notebooks and commits back data/images
+name: Run notebooks and commit back data/charts
 
 on:
   push:
