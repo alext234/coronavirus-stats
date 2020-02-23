@@ -8,3 +8,4 @@ jupyter-core==4.6.1
 requests==2.22.0
 lxml==4.3.4
 pdfminer.six==20200124
+html5lib==1.0.1
