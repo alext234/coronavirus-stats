@@ -24,7 +24,7 @@ jobs:
 
       - name: Execute notebooks
         run: |
-            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=180
+            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=300
             
       - name: Commit files 
         run: |
