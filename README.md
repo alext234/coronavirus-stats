@@ -1,6 +1,6 @@
 ![Run notebooks and commit back data/charts](https://github.com/alext234/coronavirus-stats/workflows/Run%20notebooks%20and%20commit%20back%20data/charts/badge.svg?branch=master)
 
-# Charts and Data on Coronavirus 
+# Charts and Data on Coronavirus (COVID-19)
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
 
 * Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
