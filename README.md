@@ -60,7 +60,7 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 [CSV direct link](data/cdc-us-cases.csv?raw=true)
 
-![](images/cdc-us-cases.png?raw=true)
+Chart for US is not plotted due to change in the way stats are collected.
 
 
 ## Aggregate sites
