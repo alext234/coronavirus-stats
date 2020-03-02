@@ -10,6 +10,21 @@ This repository contains data in (CSV format) which are scraped from reliable so
 * Look for those **CSV direct link** below to get the scraped historical data.
 
 
+## Aggregate sites
+
+
+### [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
+
+Below are international stats, excluding China.
+
+[CSV direct link](data/bnonews-international.csv?raw=true)
+
+Bar chart of the latest snapshot.
+
+![](images/bnonews-international.png?raw=true)
+
+
+
 ## WHO & Government sites 
 
 ### From WHO (World Health Organisation) Situation reports
@@ -62,23 +77,6 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 Chart for US is not plotted due to change in the way stats are collected.
 
-
-## Aggregate sites
-
-
-### [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
-
-Below are international stats, excluding China.
-
-[CSV direct link](data/bnonews-international.csv?raw=true)
-
-Bar chart of the latest snapshot.
-
-![](images/bnonews-international.png?raw=true)
-
-
-
-# More data to come...
 
 
 # How it works
