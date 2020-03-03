@@ -9,6 +9,8 @@ This repository contains data in (CSV format) which are scraped from reliable so
 
 * Look for those **CSV direct link** below to get the scraped historical data.
 
+* Another repository related to news scraping is available at https://github.com/alext234/coronavirus-news/blob/master/README.md
+
 
 ## Aggregate sites
 
