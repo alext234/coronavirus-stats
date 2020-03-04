@@ -17,7 +17,7 @@ This repository contains data in (CSV format) which are scraped from reliable so
 
 ### [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 
-Below are international stats, excluding China and South Korea.
+Below are international stats, excluding China.
 
 [CSV direct link](data/bnonews-international.csv?raw=true)
 
