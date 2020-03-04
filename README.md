@@ -57,8 +57,6 @@ Data is pulled from Department of Health [website](https://www.health.gov.au/new
 
 [CSV direct link](data/australia-cases.csv?raw=true)
 
-Chart generation is in progress ...
-
 
 ### Stats from Singapore
 
