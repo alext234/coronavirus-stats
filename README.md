@@ -68,7 +68,7 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 [CSV direct link](data/singapore-cases.csv?raw=true)
 
-![](images/singapore-cases.png?raw=true)
+
 
 
 ### From US CDC (Centers for Disease Control and Prevention)
