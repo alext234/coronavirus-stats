@@ -3,7 +3,7 @@
 ![Top 10](https://img.shields.io/endpoint?color=blue&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-stats%2Fmaster%2Fdata%2Ftop10.json)
 
 
-# Charts and Data on Coronavirus (COVID-19)
+### Charts and Data on Coronavirus (COVID-19)
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
 
 * Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
@@ -15,10 +15,10 @@ This repository contains data in (CSV format) which are scraped from reliable so
 * Another repository related to news scraping is available at https://github.com/alext234/coronavirus-news/blob/master/README.md
 
 
-## Aggregate sites
+### Aggregate sites
 
 
-### [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
+#### [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
 
 Below are international stats, excluding China.
 
@@ -30,9 +30,9 @@ Bar chart of the latest snapshot.
 
 
 
-## WHO & Government sites 
+### WHO & Government sites 
 
-### From WHO (World Health Organisation) Situation reports
+#### From WHO (World Health Organisation) Situation reports
 Data are scraped from [these reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) which are in PDF formats. New reports are released daily.
 
 
@@ -82,14 +82,14 @@ Chart for US is not plotted due to change in the way stats are collected.
 
 
 
-# How it works
+### How it works
 
 * Jupyter notebooks are used for scraping data and output to CSV files
 * These notebooks are executed on a schedule by Github Actions pipeline to scrape new data
 * This pipeline also commits back new data to this repository
 
 
-# Development 
+### Development 
 
 
 * Tools: Python3, Jupyter, Pandas, BeautifulSoup and related stuff (e.g. Selenium for web-scraping). 
@@ -113,13 +113,13 @@ jupyter notebook --allow-root --ip=0.0.0.0
 
 ```
 
-## Contributions
+### Contributions
 
 * Feel free to create new issues for any potential data source worth scraping.
 * Pull requests are welcomed!
 
 
-## Repo status and stats
+### Repo status and stats
 * Stargazers
 
 
