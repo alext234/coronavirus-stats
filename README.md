@@ -1,4 +1,3 @@
-![Last update](https://img.shields.io/endpoint?color=blue&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-stats%2Fmaster%2Fdata%2Flast_update.json)
 
 
 ![Top 10](https://img.shields.io/endpoint?color=blue&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-stats%2Fmaster%2Fdata%2Ftop10.json)
@@ -125,6 +124,10 @@ jupyter notebook --allow-root --ip=0.0.0.0
 
 
 ![GitHub stars](https://img.shields.io/github/stars/alext234/coronavirus-stats?style=social)
+
+* Last update from pipeline
+
+![Last update](https://img.shields.io/endpoint?color=blue&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-stats%2Fmaster%2Fdata%2Flast_update.json)
 
 * Pipeline status
 
