@@ -1,4 +1,4 @@
-![Run notebooks and commit back data/charts](https://github.com/alext234/coronavirus-stats/workflows/Run%20notebooks%20and%20commit%20back%20data/charts/badge.svg?branch=master)
+![GitHub stars](https://img.shields.io/github/stars/alext234/coronavirus-stats?style=social)
 
 # Charts and Data on Coronavirus (COVID-19)
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
@@ -114,3 +114,7 @@ jupyter notebook --allow-root --ip=0.0.0.0
 
 * Feel free to create new issues for any potential data source worth scraping.
 * Pull requests are welcomed!
+
+
+## Pipeline status
+![Run notebooks and commit back data/charts](https://github.com/alext234/coronavirus-stats/workflows/Run%20notebooks%20and%20commit%20back%20data/charts/badge.svg?branch=master) 
