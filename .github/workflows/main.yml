@@ -22,9 +22,13 @@ jobs:
             pip install -r requirements.txt
             mkdir -p data images 
 
-      - name: Execute notebooks
+      - name: Execute scrappers
         run: |
-            jupyter nbconvert --execute --inplace *.ipynb   --ExecutePreprocessor.timeout=300
+            jupyter nbconvert --execute --inplace notebooks-scrappers/*.ipynb   --ExecutePreprocessor.timeout=300
+            
+      - name: Execute analysers
+        run: |
+            jupyter nbconvert --execute --inplace notebooks-analysers/*.ipynb   --ExecutePreprocessor.timeout=300
             
       - name: Commit files 
         run: |
