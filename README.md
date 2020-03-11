@@ -1,3 +1,4 @@
+![Top 10](https://img.shields.io/endpoint?color=blue&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-stats%2Fmaster%2Fdata%2Ftop10.json)
 
 
 # Charts and Data on Coronavirus (COVID-19)
@@ -118,7 +119,11 @@ jupyter notebook --allow-root --ip=0.0.0.0
 
 ## Repo status and stats
 * Stargazers
+
+
 ![GitHub stars](https://img.shields.io/github/stars/alext234/coronavirus-stats?style=social)
 
 * Pipeline status
+
+
 ![Run notebooks and commit back data/charts](https://github.com/alext234/coronavirus-stats/workflows/Run%20notebooks%20and%20commit%20back%20data/charts/badge.svg?branch=master) 
