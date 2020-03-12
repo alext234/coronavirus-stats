@@ -34,8 +34,8 @@ date,global_cases,report_url
 2020-02-28,83652,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200228-sitrep-39-covid-19.pdf
 2020-02-29,85403,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200229-sitrep-40-covid-19.pdf
 2020-03-01,87137,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf
-2020-03-02,88948,https://www.who.int/docs/default-source/coronaviruse/20200302-sitrep-42-covid-19.pdf
 2020-03-02,88948,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200302-sitrep-42-covid-19.pdf
+2020-03-02,88948,https://www.who.int/docs/default-source/coronaviruse/20200302-sitrep-42-covid-19.pdf
 2020-03-03,90870,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200303-sitrep-43-covid-19.pdf
 2020-03-04,93090,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200304-sitrep-44-covid-19.pdf
 2020-03-05,95333,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200305-sitrep-45-covid-19.pdf
@@ -45,3 +45,4 @@ date,global_cases,report_url
 2020-03-09,109578,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200309-sitrep-49-covid-19.pdf
 2020-03-10,113702,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200310-sitrep-50-covid-19.pdf
 2020-03-11,118326,https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200311-sitrep-51-covid-19.pdf
+2020-03-12,125048,https://www.who.int/docs/default-source/coronaviruse/20200312-sitrep-52-covid-19.pdf
