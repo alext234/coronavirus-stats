@@ -3,7 +3,7 @@
 ![Top 10](https://img.shields.io/endpoint?color=blue&style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Falext234%2Fcoronavirus-stats%2Fmaster%2Fdata%2Ftop10.json)
 
 
-### Charts and Data on Coronavirus (COVID-19)
+### CSV Data on Coronavirus (COVID-19)
 This repository contains data in (CSV format) which are scraped from reliable sources (e.g. World Health Organisation).
 
 * Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
