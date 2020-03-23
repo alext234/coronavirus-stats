@@ -42,15 +42,6 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 
 ![](images/who-global-cases.png?raw=true)
 
-### Stats from China
-[This page](https://ncov.dxy.cn/ncovh5/view/pneumonia) has the realtime stats from China. Data are pulled several times a day by the pipeline.
-
-#### All cases in China
-
-[CSV direct link](data/china-summary-cases.csv?raw=true)
-
-![](images/china-summary-cases.png?raw=true)
-
 
 ### Stats from Australia
 
@@ -59,6 +50,8 @@ Data is pulled from Department of Health [website](https://www.health.gov.au/new
 #### Cases in Australia
 
 [CSV direct link](data/australia-cases.csv?raw=true)
+
+![](images/australia-cases.png?raw=true)
 
 
 ### Stats from Singapore
@@ -79,6 +72,18 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 [CSV direct link](data/cdc-us-cases.csv?raw=true)
 
 Chart for US is not plotted due to change in the way stats are collected.
+
+
+
+
+### Stats from China
+[This page](https://ncov.dxy.cn/ncovh5/view/pneumonia) has the realtime stats from China. Data are pulled several times a day by the pipeline.
+
+#### All cases in China
+
+[CSV direct link](data/china-summary-cases.csv?raw=true)
+
+![](images/china-summary-cases.png?raw=true)
 
 
 
