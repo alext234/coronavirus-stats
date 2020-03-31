@@ -24,7 +24,7 @@ jobs:
 
       - name: Execute scrappers
         run: |
-            jupyter nbconvert --execute --inplace notebooks-scrappers/*.ipynb   --ExecutePreprocessor.timeout=600
+            jupyter nbconvert --execute --inplace notebooks-scrappers/*.ipynb   --ExecutePreprocessor.timeout=600 --debug
             
       - name: Execute analysers
         run: |
