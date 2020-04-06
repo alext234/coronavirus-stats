@@ -8,12 +8,7 @@ This repository contains data in (CSV format) which are scraped from reliable so
 
 * Data are scraped a few times daily and pushed back to this repository together with generated charts (.PNG files).
 
-* Data scraping are automated with [Github Actions](https://github.com/features/actions).
-
 * Look for those **CSV direct link** below to get the scraped historical data.
-
-* Another repository related to news scraping is available at https://github.com/alext234/coronavirus-news/blob/master/README.md
-
 
 ### Aggregate sites
 
