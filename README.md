@@ -64,10 +64,14 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 #### Cases in the US (data are scraped from [here](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html))
 
-[CSV direct link](data/cdc-us-cases.csv?raw=true)
+* Till 18 Apr 2020:
 
-Chart for US is not plotted due to change in the way stats are collected.
+[CSV direct link](data/cdc-us-cases.csv?raw=true) 
 
+
+* From 18 Apr 2020, the data on format CDC website has been changed to include races and age groups. 
+
+[CSV direct link](data/cdc-us-cases-by-races-and-age-group.csv?raw=true) 
 
 
 
