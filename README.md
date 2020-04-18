@@ -69,7 +69,7 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 [CSV direct link](data/cdc-us-cases.csv?raw=true) 
 
 
-* From 18 Apr 2020, the data on format CDC website has been changed to include races and age groups. 
+* From 18 Apr 2020, the data format CDC website has been changed to include races and age groups. 
 
 [CSV direct link](data/cdc-us-cases-by-races-and-age-group.csv?raw=true) 
 
