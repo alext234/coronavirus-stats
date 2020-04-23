@@ -1,18 +1,18 @@
 Unnamed: 0_level_0,No. of cases (% of total),No. of cases (% of total),No. of cases (% of total),No. of cases (% of total),No. of cases (% of total),No. of cases (% of total),No. of cases (% of total)
 Age group (years),< 18,18-44,45-64,65-74,75+,Unknown,Total
-Totals,11306,213558,217085,63349,71812,16670,593780
-Race missing/unspecified,"8,505 (75%)","151,458 (71%)","143,999 (66%)","35,562 (56%)","35,249 (49%)","9,791 (59%)","384,564 (65%)"
-Race specified,"2,801 (25%)","62,100 (29%)","73,086 (34%)","27,787 (44%)","36,563 (51%)","6,879 (41%)","209,216 (35%)"
+Totals,11964,222699,225981,71042,75904,12105,619695
+Race missing/unspecified,"8,970(75.0 %)","156,733(70.4 %)","148,556(65.7 %)","41,725(58.7 %)","36,416(48.0 %)","4,937(40.8 %)","397,337(64.1 %)"
+Race specified,"2,994(25.0 %)","65,966(29.6 %)","77,425(34.3 %)","29,317(41.3 %)","39,488(52.0 %)","7,168(59.2 %)","222,358(35.9 %)"
 Among those with race specified,Among those with race specified,Among those with race specified,Among those with race specified,Among those with race specified,Among those with race specified,Among those with race specified,Among those with race specified
-American Indian or Alaska Native,35 (1.2%),501 (0.8%),448 (0.6%),127 (0.5%),80 (0.2%),18 (0.3%),"1,209 (0.6%)"
-Asian,140 (5.0%),"3,988 (6.4%)","4,526 (6.2%)","1,440 (5.2%)","1,558 (4.3%)",481 (7.0%),"12,133 (5.8%)"
-Black or African American,820 (29.3%),"20,816 (33.5%)","27,168 (37.2%)","10,184 (36.7%)","9,346 (25.6%)","1,912 (27.8%)","70,246 (33.6%)"
-Native Hawaiian or other Pacific Islander,14 (0.5%),282 (0.5%),243 (0.3%),80 (0.3%),56 (0.2%),18 (0.3%),693 (0.3%)
-White,"1,771 (63.2%)","36,290 (58.4%)","40,523 (55.4%)","15,903 (57.2%)","25,465 (69.6%)","4,446 (64.6%)","124,398 (59.5%)"
-Multiple/other,21 (0.7%),223 (0.4%),178 (0.2%),53 (0.2%),58 (0.2%),4 (0.1%),537 (0.3%)
+American Indian or Alaska Native,37(1.2 %),547(0.8 %),477(0.6 %),135(0.5 %),96(0.2 %),18(0.3 %),"1,310(0.6 %)"
+Asian,150(5.0 %),"4,238(6.4 %)","4,751(6.1 %)","1,503(5.1 %)","1,638(4.1 %)",497(6.9 %),"12,777(5.7 %)"
+Black or African American,883(29.5 %),"22,089(33.5 %)","28,719(37.1 %)","10,712(36.5 %)","9,967(25.2 %)","2,025(28.3 %)","74,395(33.5 %)"
+Native Hawaiian or other Pacific Islander,14(0.5 %),298(0.5 %),253(0.3 %),86(0.3 %),57(0.1 %),18(0.3 %),726(0.3 %)
+White,"1,888(63.1 %)","38,534(58.4 %)","43,022(55.6 %)","16,823(57.4 %)","27,672(70.1 %)","4,605(64.2 %)","132,544(59.6 %)"
+Multiple/other,22(0.7 %),260(0.4 %),203(0.3 %),58(0.2 %),58(0.1 %),5(0.1 %),606(0.3 %)
 ,,,,,,,
-Ethnicity missing/unspecified,"8,368 (74%)","151,020 (71%)","147,050 (68%)","38,571 (61%)","41,545 (58%)","8,048 (48%)","394,602 (66%)"
-Ethnicity specified,"2,938 (26%)","62,538 (29%)","70,035 (32%)","24,778 (39%)","30,267 (42%)","8,622 (52%)","199,178 (34%)"
+Ethnicity missing/unspecified,"8,764(73.3 %)","155,878(70.0 %)","151,511(67.0 %)","44,816(63.1 %)","43,005(56.7 %)","3,178(26.3 %)","407,152(65.7 %)"
+Ethnicity specified,"3,200(26.7 %)","66,821(30.0 %)","74,470(33.0 %)","26,226(36.9 %)","32,899(43.3 %)","8,927(73.7 %)","212,543(34.3 %)"
 Among those with ethnicity specified,Among those with ethnicity specified,Among those with ethnicity specified,Among those with ethnicity specified,Among those with ethnicity specified,Among those with ethnicity specified,Among those with ethnicity specified,Among those with ethnicity specified
-Hispanic/Latino,"1,112 (38%)","18,268 (29%)","16,809 (24%)","4,367 (18%)","4,088 (14%)","1,395 (16%)","46,039 (23%)"
-Non-Hispanic/Latino,"1,826 (62%)","44,270 (71%)","53,226 (76%)","20,411 (82%)","26,179 (86%)","7,227 (84%)","153,139 (77%)"
+Hispanic/Latino,"1,216(38.0 %)","19,670(29.4 %)","17,946(24.1 %)","4,583(17.5 %)","4,302(13.1 %)","1,437(16.1 %)","49,154(23.1 %)"
+Non-Hispanic/Latino,"1,984(62.0 %)","47,151(70.6 %)","56,524(75.9 %)","21,643(82.5 %)","28,597(86.9 %)","7,490(83.9 %)","163,389(76.9 %)"
