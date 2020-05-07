@@ -73,6 +73,9 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 [CSV direct link](data/cdc-us-cases-by-races-and-age-group.csv?raw=true) 
 
+*  From 7 May 2020, 
+
+[CSV direct link](data/us-cdc-total-cases-deaths.csv?raw=true) 
 
 
 ### Stats from China
