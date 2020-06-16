@@ -28,6 +28,9 @@ Bar chart of the latest snapshot.
 ### WHO & Government sites 
 
 #### From WHO (World Health Organisation) Situation reports
+
+NOTE: paused on 16 Jun 2020 due to format changes from WHO.
+
 Data are scraped from [these reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/) which are in PDF formats. New reports are released daily.
 
 
