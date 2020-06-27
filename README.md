@@ -65,6 +65,8 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 ### From US CDC (Centers for Disease Control and Prevention)
 
+NOTE: paused on 27 Jun 2020 due to format changes from CDC.
+
 #### Cases in the US (data are scraped from [here](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html))
 
 * Till 18 Apr 2020:
