@@ -58,6 +58,8 @@ Data are scraped from the MOH (Ministry of Health) local situation [web page](ht
 
 #### Cases in Singapore
 
+NOTE: paused on 27 Jun 2020.
+
 [CSV direct link](data/singapore-cases.csv?raw=true)
 
 
