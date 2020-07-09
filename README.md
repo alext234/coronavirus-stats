@@ -42,6 +42,7 @@ Data are scraped from [these reports](https://www.who.int/emergencies/diseases/n
 
 
 ### Stats from Australia
+NOTE: paused on 10 July 2020
 
 Data is pulled from Department of Health [website](https://www.health.gov.au/news/coronavirus-update-at-a-glance).
 
